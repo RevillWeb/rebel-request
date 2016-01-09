@@ -1,0 +1,11 @@
+{
+  "directories": {
+    "lib": "lib"
+  },
+  "main": "rebel-request.js",
+  "format": "es6",
+  "registry": "jspm",
+  "dependencies": {
+    "rebel-core": "github:revillweb/rebel-core"
+  }
+}
